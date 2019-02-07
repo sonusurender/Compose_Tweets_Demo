@@ -21,6 +21,7 @@ For detailed explanation of code, [visit here](http://www.androhub.com/android-c
 
 - [Twitter Integration](http://www.androhub.com/android-twitter-integration/)
 - [Show Twitter Timelines](http://www.androhub.com/android-twitter-show-timelines/)
+- [Show Tweets](http://www.androhub.com/android-show-tweets/)
 
 # Support
 Reach out to me at one of the following places!
